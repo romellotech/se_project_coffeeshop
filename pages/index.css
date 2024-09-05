@@ -116,6 +116,14 @@
   display: flex;
   justify-content: space-between;
 }
+
+.recipes__iframe {
+  border: none;
+}
+
+.recipes__iframe {
+  border: none;
+}
 /* make logo smaller*/
 /*.header__footer:last-child {*/
 /*trying to put address at the bottom*/
