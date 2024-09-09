@@ -125,13 +125,13 @@
   border: none;
 }
 
-.reservations {
+.reservation {
   padding: 100px 0 120px;
   background-image: url(../images/background_reservation.svg);
   background-color: #d9e7ff;
 }
 
-.reservations__title {
+.reservation__title {
   text-align: center;
   margin: 0 0 80px;
   font-family: "Inter", "Arial", sans-serif;
@@ -141,7 +141,7 @@
   line-height: 52px;
 }
 
-.reservations__form {
+.reservation__form {
   margin: 0 auto;
 }
 
