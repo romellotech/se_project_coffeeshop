@@ -24,6 +24,6 @@
   transition: opacity 0.5s;
 }
 
-.nav__links:hover {
+.nav__link:hover {
   opacity: 0.5;
 }

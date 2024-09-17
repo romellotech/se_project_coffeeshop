@@ -49,6 +49,9 @@
   display: flex;
   gap: 12px;
   justify-content: center;
+}
+
+.form__label {
   font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 500;
